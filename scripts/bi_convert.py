@@ -68,6 +68,8 @@ def main():
         meta = {"title": title, "identifier": ident, "type": typ, "jurisdiction": "bi", "language": "fr",
                 "year": int(year) if year else None, "status": "in_force" if is_const else "unknown",
                 "source": it.get("fetched_url") or it["url"], "source_page": it["post"], "retrieved": RETRIEVED}
+        if it.get("archived_url"):
+            meta["archived_source"] = it["archived_url"]
         if ocr:
             meta["note"] = "Text obtained by OCR (tesseract, French) from the scanned PDF published by the Assemblée nationale; may contain recognition errors."
         if is_const:

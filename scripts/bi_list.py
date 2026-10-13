@@ -68,6 +68,18 @@ def main():
                     if u != it["url"]:
                         it["fetched_url"] = u
                     break
+            if not r:
+                # broken link: try the Internet Archive copy of the official file
+                try:
+                    q = T._S.get("https://archive.org/wayback/available", params={"url": it["url"].split("://", 1)[1]}, timeout=60).json()
+                    snap = q.get("archived_snapshots", {}).get("closest")
+                except Exception:  # noqa
+                    snap = None
+                if snap and snap.get("status") == "200":
+                    au = "https://web.archive.org/web/%sid_/%s" % (snap["timestamp"], snap["url"].split("/web/", 1)[1].split("/", 1)[1])
+                    r = T.fetch(au, os.path.join(RAW, "pdf", it["file"]), delay=3, check_pdf=True, tries=2)
+                    if r:
+                        it["archived_url"] = au
             print("ok" if r else "FAIL", it["url"], flush=True)
         json.dump(out, open(os.path.join(RAW, "laws.json"), "w"), indent=1, ensure_ascii=False)
 
