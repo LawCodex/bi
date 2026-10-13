@@ -6,7 +6,7 @@ jurisdiction: bi
 language: fr
 year: 2006
 status: unknown
-source: "https://assemblee.bi/website/wp-content/uploads/2024/02/loi_n1-06_du_5_mars_2006-2.pdf"
+source: "https://assemblee.bi/wp-content/uploads/2024/02/loi_n1-06_du_5_mars_2006-2.pdf"
 source_page: "https://assemblee.bi/?p=21446"
 retrieved: 2026-10-13
 note: "Text obtained by OCR (tesseract, French) from the scanned PDF published by the Assemblée nationale; may contain recognition errors."

@@ -38,6 +38,10 @@ only when it passed a plausibility check (share of well-formed words); it still 
 (stamps, signatures, tables and handwritten dates are typically garbled). Headings (`TITRE`, `CHAPITRE`,
 `Section`, `Article N`) are recognised from the OCR text.
 
+The Constitution and about 25 recent laws are printed in two columns, **Kirundi and French side by side**. For
+these, each page image was split into its two halves, both were OCRed, and only the **French column** is kept
+(no Kirundi OCR model is available); their `note` says so. Kirundi texts are therefore not included.
+
 ## Sources
 
 | Source | URL | Used for |
@@ -54,7 +58,6 @@ only when it passed a plausibility check (share of well-formed words); it still 
 * Decrees and ordinances (published by the Presidency, presidence.gov.bi, and in the *Bulletin officiel du
   Burundi*, which is not online) are not included. The Assembly's internal rules of procedure are excluded.
 * No consolidation: laws are as promulgated; amending laws are separate files.
-* Kirundi versions are not published by the source.
 
 ## Copyright
 
@@ -68,5 +71,7 @@ python3 -m pip install -r scripts/requirements.txt   # plus poppler and tesserac
 python3 scripts/bi_list.py --download   # list + PDFs into ../_raw/bi
 python3 scripts/bi_ocr.py               # OCR (French model in ../_raw/bi/tessdata, from tesseract-ocr/tessdata_fast)
 python3 scripts/bi_convert.py
+python3 scripts/bi_bilingual.py         # re-OCR of Kirundi/French two-column prints, French column
+python3 scripts/bi_fixsrc.py            # record the working URL of links that are broken on the site
 python3 scripts/bi_readme.py
 ```

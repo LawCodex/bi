@@ -9,341 +9,131 @@ status: unknown
 source: "https://assemblee.bi/wp-content/uploads/2024/08/n%C2%B016%20du%2007%20juin%202024.pdf"
 source_page: "https://assemblee.bi/?p=23421"
 retrieved: 2026-10-13
-note: "Text obtained by OCR (tesseract, French) from the scanned PDF published by the Assemblée nationale; may contain recognition errors."
+note: "Bilingual (Kirundi/French) print: French column only, text obtained by OCR (tesseract, French) from the scanned PDF published by the Assemblée nationale; may contain recognition errors."
 ---
 
 # Loi n°1/16 du 07 juin 2024 portant modification du décret-loi n°1/024 du 13 juillet 1989 portant cadre organique des administrations personnalisées de l’Etat
 
-REPUBLIQUE DU BURUNDI REPUBURIKA Y’UBURUNDI a = BP AZ GP K EAE & \ AE ë CABINET DU PRESIDENT IBIRO VY'UMUKURU W'IGIHUGU
+REPUBLIQUE DU BURUNDI ENS CABINET DU PRESIDENT LOI N°1/4 6DU 0-Juin 2024 PORTANT MODIFICATION DU DECRET-LOI N°1/024 DU 13 JUILLET 1989 PORTANT CADRE ORGANIQUE DES ADMINISTRATIONS PERSONNALISEES DE L'ETAT LE PRESIDENT DE LA REPUBLIQUE, Vu la Constitution de la République du Burundi ; Vu la Loi Organique n° 1/20 du 20 juin 2022 portant Révision de la Loi n° 1/35 du 4 décembre 2008 relative aux Finances Publiques ; Vu la Loi n° 1/09 du 17 mars 2005 portant Distinction des Fonctions Politiques des Fonctions Techniques ; Vu la Loi n° 1/22 du 25 juillet 2014 portant Réglementation de l'Action Récursoire et Directe de l'Etat et des Communes contre leurs Mandataires et leurs Préposés ; Vu la Loi n° 1/04 du 24 janvier 2018 portant Modification de la Loi n° 1/01 du 4 février 2008 portant Code des Marchés Publics du Burundi ;
 
-LOI N°1/4 6DU 0-Juin 2024 PORTANT | IBWIRIZWA INOMERO 14 6 RYO KU
+Vu la Loi n° 1/01 du 13 novembre 2020 portant Modification de la Loi n° 1/08 du 28 avril 2011 portant Organisation Générale de l'Administration Publique ; Vu la Loi n° 1/11 du 24 novembre 2020 portant Révision du Décretloi n° 1/037 du 7 juillet 1993 portant Révision du Code du Travail du Burundi ; Vu la Loi n° 1/03 du 8 février 2023 portant Statut Général des Fonctionnaires ; Revu le Décret-loi n°1/024 du 13 juillet 1989 portant Cadre Organique des Administrations Personnalisées ; Le Conseil des Ministres ayant délibéré ; L'Assemblée Nationale et le Sénat ayant adopté ;
 
-MODIFICATION DU DECRET-LOI N°1/024 WA.0 7 RUHESHI 2024 ISUBIRAMWO
+PROMULGUE :
 
-DU 13 JUILLET 1989 PORTANT CADRE | ITEGEKO-BWIRIZWA INOMERO 1/024
+## CHAPITRE Il — DE L'OBJET, DU CHAMP D'APPLICATION, DES DEFINITIONS ET DE LA CREATION
 
-ORGANIQUE DES ADMINISTRATIONS | RYO KUWA 13 MUKAKARO 1989
+### Section 1 — De l'objet et du champ
 
-PERSONNALISÉES DE L'ETAT RISHINGA AMATEGEKO AGENGA IBISATA VYA RETA VYITUNGANIRIZA IBIJANYE N'INTWARO HAMWE N'IKIGEGA .
-
-LE PRESIDENT DE LA REPUBLIQUE, UMUKURU W'IGIHUGU,
-
-Vu la Constitution de la République du | Yihweje Ibwirizwa Shingiro rya Repuburika
-
-Burundi ; y'Uburundi ;
-
-Vu la Loi Organique n° 1/20 du 20 juin 2022 | Yihweje Ibwirizwa ryunganira Ibwirizwa
-
-portant Révision de la Loi n° 1/35 du 4 | Shingiro inomero 1/20 ryo ku wa 20
-
-décembre 2008 relative aux Finances | Ruheshi 2022 risubiramwo Ibwirizwa
-
-Publiques ; inomero 1/35 ryo ku wa 4 Kigarama 2008 ryerekeye ikigega c'iginugu ;
-
-Vu la Loi n° 1/09 du 17 mars 2005 portant | Yihweje Ibwirizwa inomero 1/09 ryo ku wa
-
-Distinction des Fonctions Politiques des | 17 Ntwarante 2005 ritandukanya imirimo
-
-Fonctions Techniques ; ya poritike n'imirimo y'ubuhinga ;
-
-Vu la Loi n° 1/22 du 25 juillet 2014 portant | Yihweje Ibwirizwa inomero 1/22 ryo ku wa
-
-Réglementation de l'Action Récursoire et |25 Mukakaro 2014 rishinga ingene Reta
-
-Directe de l'Etat et des Communes contre | n'amakomine bishingisha imanza
-
-leurs Mandataires et leurs Préposés ; z'ukwishuza amafaranga yarishwe kubera amakosa yakozwe n'abo Reta yashinze amabanga, abakozi bayo n'ab'amakomine ;
-
-Vu la Loi n° 1/04 du 24 janvier 2018 portant | Yihweje Ibwirizwa inomero 1/04 ryo ku wa
-
-Modification de la Loi n° 1/01 du 4 février | 24 Nzero 2018 rihindura Ibwirizwa inomero
-
-2008 portant Code des Marchés Publics du | 1/01 ryo ku wa 4 Ruhuhuma 2008
-
-Burundi ; ryerekeye lIgitabu c'amategeko agenga amasoko ya Reta mu Burundi ;
-
-Vu la Loi n° 1/01 du 13 novembre 2020 | Yihweje Ibwirizwa inomero 1/01 ryo ku wa
-
-portant Modification de la Loi n° 1/08 du 28 | 13 Munyonyo 2020 rihindura Ibwirizwa
-
-avril 2011 portant Organisation Générale de | inomero 1/08 ryo ku wa 28 Ndamukiza
-
-l'Administration Publique ; 2011 ritunganya muri rusangi ibisata vya Reta vyerekeye intwaro ;
-
-Vu la Loi n° 1/11 du 24 novembre 2020 | Yihweje Ibwirizwa inomero 1/11 ryo ku wa
-
-portant Révision du Décretloi n° 1/037 du 7 | 24 Munyonyo 2020 risubiramwo ltegeko-
-
-juillet 1993 portant Révision du Code du | bwirizwa inomero 1/037 ryo ku wa 7
-
-Travail du Burundi ; Mukakaro 1993 risubiramwo Igitabu c'amategeko agenga akazi mu Burundi;
-
-Vu la Loi n° 1/03 du 8 février 2023 portant | Yihweje Ibwirizwa inomero 1/03 ryo ku wa
-
-Statut Général des Fonctionnaires ; 8 Ruhuhuma 2023 rishinga amategeko agenga abakozi ba Reta ;
-
-Revu le Décret-loi n°1/024 du 13 juillet 1989 | Asubiye kwihweza Itegeko-bwirizwa
-
-portant Cadre Organique des | inomero 1/024 ryo ku wa 13 Mukakaro
-
-Administrations Personnalisées ; 1989 rishinga amategeko agenga ibisata vya Reta vyitunganiriza ibijanye n'intwaro hamwe n'ikigega ;
-
-Le Conseil des Ministres ayant délibéré ; Inama nshikiranganji imaze Kubica irya n'ino;
-
-L'Assemblée Nationale et le Sénat ayant | Inama nshingamateka n'Inama
-
-adopté ; nkenguzamateka zimaze kuvyemeza ;
-
-PROMULGUE : ATANGAJE :
-
-## CHAPITRE I — DE L'OBJET, DU |IGICE CA]: IVYEREKEYE INTUMBERO
-
-CHAMP D'APPLICATION, DES | Y'IRI BWIRIZWA, IVYO RYEREKEYE,
-
-DEFINITIONS ET DE LA CREATION INSIGURO Y’AMAJAMBO HAMWE N'ISHINGWA RY'IBISATA VYA RETA VYITUNGANIRIZA IBIJANYE N'INTWARO HAMWE N'IKIGEGA
-
-### Section 1 — De l’objet et du champ | Agace ka 1: Intumbero VY'iri bwirizwa
-
-d'application n'ivyo ryerekeye
+d'application
 
 #### Article 1
 
-Ingingo ya 1 :
-
-La présente loi a pour objet de déterminer | Iri bwirizwa rifise intumbero yo gutomora
-
-les règles générales régissant les | amategeko agenga muri rusangi ibisata
-
-administrations personnalisées de l'Etat. vya Reta vyitunganiriza ibijanye n'intwaro hamwe n'ikigega.
+La présente loi a pour objet de déterminer les règles générales régissant les administrations personnalisées de l'Etat.
 
 #### Article 2
 
-Ingingo ya 2 :
+La présente loi s'applique aux administrations personnalisées de l'Etat selon leur objet principal.
 
-La présente loi s'applique aux | Iri bwirizwa rikurikizwa ku bisata vya Reta
-
-administrations personnalisées de l'Etat | vyitunganiriza ibijanye n'intwaro hamwe
-
-selon leur objet principal. n'ikigega hakurikijwe intumbero nyamukuru yavyo.
-
-### Section 2 — De la définition Agace ka 2 : Insiguro y'amajambo
+### Section 2 — De la définition
 
 #### Article 3
 
-Ingingo ya 3 :
+Au sens de la présente loi, une administration personnalisée de l'Etat est un service public déconcentré présentant un caractère technique spécifique, doté d'une personnalité juridique, d'un patrimoine propre et d'une autonomie de gestion administrative et financière dont l'organe responsable est placé sous l'autorité directe et le contrôle hiérarchique d'un ministre.
 
-Au sens de la présente loi, une!|Muri iri bwirizwa, igisata ca Reta
-
-administration personnalisée de l'Etat est un | citunganiriza ibijanye n'intwaro hamwe
-
-service public déconcentré présentant un | n'ikigega ni igisata ca Reta gifise ico
-
-caractère technique spécifique, doté d’une | ciharije, gitunganijwe hakurikijwe
-
-personnalité juridique, d'un patrimoine | amategeko akigenga, gifise amatungo yaco
-
-propre et d'une autonomie de gestion | kandi citunganiriza ibijanye n'intwaro
-
-administrative et financière dont l'organe | hamwe n'ikigega, kikaba gikukira kandi
-
-responsable est placé sous l'autorité directe | gisuzumwa n’umushikiranganiji gikukira.
-
-et le contrôle hiérarchique d'un ministre.
-
-### Section 3 — De la création Agace ka 3 : Ishingwa ry'ibisata vya
-
-Reta
+### Section 3 — De la création
 
 #### Article 4
 
-Ingingo ya 4 :
+Les administrations personnalisées de l'Etat sont créées par décret. Le décret indique la dénomination, le siège, les missions, ainsi que le ministre sous l'autorité duquel le service est placé.
 
-Les administrations personnalisées de l'Etat | Ibisata vya Reta vyitunganiriza ibijanye
+Il décrit également l'organisation administrative, financière et comptable du service.
 
-sont créées par décret. n'intwaro hamwe n'ikigega bishigwaho n'itegeko ry Umukuru w'igihugu.
-
-Le décret indique la dénomination, le siège, | Itegeko ry'Umukuru w'igihugu riratomora
-
-les missions, ainsi que le ministre sous |izina n'icicaro vy'ico gisata, imirimo
-
-l'autorité duquel le service est placé. gishinzwe hamwe n'umushikiranganii gikukira.
-
-Il décrit également l'organisation | Iryo tegeko riratomora kandi ingene ico
-
-administrative, financière et comptable du | gisata gitunganijwe mu bijanye n'intwaro,
-
-service. ikigega hamwe n'uguharura amafaranga yinjira n'ayasohoka.
-
-## CHAPITRE Il — DE L'ORGANISATION |IGICE CA Il - : IVYEREKEYE
-
-ADMINISTRATIVE ITUNGANYWA RY'INTWARO
+## CHAPITRE Il — DE L'ORGANISATION ADMINISTRATIVE
 
 #### Article 5
 
-Ingingo ya 5:
-
-Toute administration personnalisée est |Igisata ico ari co cose citunganiriza
-
-placée sous l'autorité hiérarchique d'un | ibijanye n'intwaro hamwe n'ikigega gikukira
-
-ministre. Elle est administrée par un | umushikiranganiji. Kirongorwa n'umuyobozi
-
-directeur général assisté d'autant de | mukuru yunganiwe n'abayobozi, igitigiri
-
-directeurs que de besoin. cabo kikavana n'ababa bakenewe.
+Toute administration personnalisée est placée sous l'autorité hiérarchique d'un ministre. Elle est administrée par un directeur général assisté d'autant de directeurs que de besoin.
 
 #### Article 6
 
-Ingingo ya 6 :
-
-Le directeur général et les directeurs | Umuyobozi mukuru hamwe n'abayobozi
-
-constituent le comité de direction, organe | bagize urwego nyobozi, imirimo yarwo
-
-d'administration, dont les attributions sont | ikaba itomorwa n'ltegeko ry'Umukuru
-
-déterminées dans le décret de création. w'Igihugu rishiraho ico gisata .
-
-Il est investi, sous l'autorité du ministre, de | Umuyobozi mukuru afise ububasha bwose
-
-tous les pouvoirs nécessaires pour assurer | bukenewe kugira atunganye yongere
-
-la gestion et la coordination de toutes les | akurikiranire hafi ibikorwa vyose vy'ico
-
-activités. gisata, agakora yisunze intumbero ahabwa n'umushikiranganii igisata gikukira.
-
-Le directeur général est responsable de | Umuyobozi mukuru ni we ajejwe ishirwa
-
-l'exécution des instructions du ministre. mu ngiro ry'intumbero ahabwa n'umushikiranganii. |
-
-Il représente l'administration personnalisée | Niwe aserukira igisata citunganiriza
-
-dans ses rapports avec les tiers. ibijanye n'intwaro hamwe n'ikigega mu migenderanire ico gisata kigiriranira n'abandi.
+Le directeur général et les directeurs constituent le comité de direction, organe d'administration, dont les attributions sont déterminées dans le décret de création. Il est investi, sous l'autorité du ministre, de tous les pouvoirs nécessaires pour assurer la gestion et la coordination de toutes les activités. Le directeur général est responsable de l'exécution des instructions du ministre. Il représente l'administration personnalisée dans ses rapports avec les tiers.
 
 #### Article 7
 
-Ingingo ya 7 :
+Une administration personnalisée comprend autant de directions et de services que de besoin. Leur nombre et leurs attributions sont fixés par le décret de création. |
 
-Une administration personnalisée comprend | Igisata ca Reta citunganiriza ibijanye
+Les organes de contrôle d'une administration personnalisée de l'Etat sont l'inspection générale du ministère dont elle relève.et d'autres organes d'inspection ou de contrôle prévus par les lois et règlements.
 
-autant de directions et de services que de | n'intwaro hamwe n'ikigega kigizwe
-
-besoin. Leur nombre et leurs attributions | n'ubuyobozi hamwe n'ibisata uko bingana
-
-sont fixés par le décret de création. bikavana n'ibiba bikenewe. Ilgitigiri cavyo n'imirimo bijejwe bitomorwa n'itegeko
-
-CE & ry'Umukuru w'Igihugu rishiraho ico gisata.
-
-Les organes de contrôle d'une | Inzego zigira isuzuma mu gisata ca Reta administration personnalisée de l'Etat sont | citunganiriza ibijanye n'intwaro hamwe l'inspection générale du ministère dont elle | n'ikigega ni ubugenduzi bukuru relève .et d'autres organes d'inspection ou | bw‘ubushikiranganji ico gisata gikukira de contrôle prévus par les lois et | hamwe n'izindi nzego z'ubugenduzi canke règlements. zijejwe ISUzumMa zitegekanijwe n'amabwirizwa hamwe n'amategeko.
-
-## CHAPITRE III — DE L'ORGANISATION |IGICE CA IH : IVYEREKEYE FINANCIERE ET COMPTABLE ITUNGANYWA RY'IKIGEGA HAMWE N'IHARURWA RY’AMAFARANGA YINJIRA N'AYASOHOKA
+## CHAPITRE III — DE L'ORGANISATION FINANCIERE ET COMPTABLE
 
 #### Article 9
 
-Ingingo ya 9: Le décret portant création d'une | ltegeko ry'Umukuru w'igihugu rishinga administration personnalisée de l'Etat |igisata ca Reta citunganiriza ibijanye détermine l'origine des ressources et la |n'intwaro hamwe n'ikigega riratomora nature de ses dépenses. ahava uburyo ico gisata gikoresha hamwe n'ivyo kibukoreshamwo.
+Le décret portant création d'une administration personnalisée de l'Etat détermine l'origine des ressources et la nature de ses dépenses.
 
 #### Article 10
 
-Ingingo ya 10 : La comptabilité d'une administration | Iharurwa ry'amafaranga yinjira personnalisée de l'Etat est soumise au | n'ayasohoka y'igisata ca Reta citunganiriza règlement général de la comptabilité | ibijanye n'intwaro hamwe n'ikigega publique. Elle est tenue en partie double | ryisunga amategeko akurikizwa conformément aux règles du plan comptable | mw'itunganywa ry'amafaranga ya Reta de l'Etat. yinjira n'ayasohoka. lryo tunganywa rigirwa mu kwerekana neza ikonte amafaranga avako n'iyo ashirwako hisunzwe amategeko aringaniza ikoreshwa ry'amafaranga ya Reta.
+La comptabilité d'une administration personnalisée de l'Etat est soumise au règlement général de la comptabilité publique. Elle est tenue en partie double conformément aux règles du plan comptable de l'Etat.
 
 #### Article 11
 
-Ingingo ya 11 : Toute dépense doit être engagée par la | Amafaranga yose asohoka ategerezwa direction ou par un agent du service | Kwemezwa n'ubuyobozi canke umukozi régulièrement délégué à cet effet. W'igisata abitumwa hisunzwe amategeko.
+Toute dépense doit être engagée par la direction ou par un agent du service régulièrement délégué à cet effet.
 
 #### Article 12
 
-Ingingo ya 12: Les revenus générés par les administrations | Amafaranga yinjijwe n'ibisata vya Reta personnalisées de l'Etat, suite à la vente | vyitunganiriza ibijanye n'intwaro hamwe des services publics, sont directement | n'ikigega, avuye mw'igurishwa ry'ivyo versés sur le compte du Trésor public. abanyagihugu bakeneye, aca ashirwa Æp kw'ikonte y'ikigega ca Reta.
+Les revenus générés par les administrations personnalisées de l'Etat, suite à la vente des services publics, sont directement versés sur le compte du Trésor public.
 
-Les marchés de travaux, de fournitures et | Amasoko yerekeye ibikorwa, ibikoresho
-
-de services, passés par les administrations | n'ubuzi atangwa n'ibisata vya Reta
-
-personnalisées de l'Etat sont soumis à la | vyitunganiriza ibijanye n'intwaro hamwe
-
-législation relative aux marchés publics de | n'ikigega yisunga amategeko agenga
-
-l'Etat. amasoko ya Reta.
+Les marchés de travaux, de fournitures et de services, passés par les administrations personnalisées de l'Etat sont soumis à la législation relative aux marchés publics de l'Etat.
 
 #### Article 14
 
-Ingingo ya 14 :
-
-Le directeur général établit chaque année | Umuyobozi mukuru arategura ku mwaka ku
-
-des prévisions budgétaires qu'il soumet au | mwaka amafaranga ategekanywa
-
-ministre dont il relève pour approbation et | gukoreshwa akabishikiriza
-
-intégration dans le budget du ministère. umushikiranganiji igisata gikukira kugira avyemeze hanyuma ace ayashira mu gitigiri c'amafaranga ategekanijwe gukoreshwa n'ubushikiranganii.
+Le directeur général établit chaque année des prévisions budgétaires qu'il soumet au ministre dont il relève pour approbation et intégration dans le budget du ministère.
 
 #### Article 15
 
-Ingingo ya 15 :
-
-Le budget d'une administration | Amafaranga igisata ca Reta citunganiriza
-
-personnalisée est inscrit au budget du |ibijanye n'intwaro hamwe n'ikigega
-
-ministère exerçant l'autorité hiérarchique | gitegekanya gukoresha ku mwaka
-
-sur elle. aharurwa mu mafaranga ubushikiranganij ico gisata gikukira butegekanya gukoresha ku mwaka.
+Le budget d'une administration personnalisée est inscrit au budget du ministère exerçant l'autorité hiérarchique sur elle.
 
 #### Article 16
 
-Ingingo ya 16:
+L'exercice budgétaire court du 1€ juillet au 30 juin de l’année suivante. Toutefois, le premier exercice débute à la date du début d'activités de l'administration personnalisée et, si cette date tombe après le 31 décembre, le terme peut être reporté au 30 juin de l’année suivante.
 
-L'exercice budgétaire court du 1° juillet au | Ikiringo Reta itegekanya gukoreshamwo
+À la fin de l'exercice budgétaire, le directeur général transmet au ministre hiérarchique et au Ministre ayant les finances dans ses attributions le rapport d'exécution budgétaire.
 
-30 juin de l’année suivante. amafaranga giharurwa kuva kw'igenekerezo rya mbere Mukakaro gushika kw'igenekerezo rya 30 Ruheshi ry'umwaka ukurikira.
-
-Toutefois, le premier exercice débute à la | Ariko, ikiringo ca mbere gitangura
-
-date du début d'activités de l'administration | kw'igenekerezo ibikorwa vy'igisata ca Reta
-
-personnalisée et, si cette date tombe après | citunganiriza ibijanye n'intwaro hamwe
-
-le 31 décembre, le terme peut être reporté | n'ikigega vyatanguriyeko, mu gihe iryo
-
-au 30 juin de l’année suivante. genekerezo rishitse inyuma y'igenekerezo rya 31 Kkigarama, iryo genekerezo rirashobora kwungururizwa kw'igenekerezo rya 30 Ruheshi ry'umwaka ukurikira.
-
-LE +
-
-À la fin de l'exercice budgétaire, le directeur | Mu mpera z'umwaka ukoreshwamwo général transmet au ministre hiérarchique et | amafaranga yategekanijwe gukoreshwa, au Ministre ayant les finances dans ses | umuyobozi mukuru ararungikira attributions le rapport d'exécution | umushikiranganji igisata gikukira hamwe budgétaire. n'umushikiranganji mu vyo ajejwe harimwo ikigega ca Reta, icegeranyo c'ingene amafaranga yari ategekanijwe gukoreshwa ku mwaka yakoreshejwe.
-
-## CHAPITRE IV — DU STATUT DU |IGICE CA IV : IVYEREKEYE PERSONNEL AMATEGEKO AGENGA ABAKOZI
+## CHAPITRE IV — DU STATUT DU PERSONNEL
 
 #### Article 18
 
-Ingingo ya 18 : Chaque administration personnalisée de | Igisata kimwe Kkimwe cose ca Reta l'Etat est dotée d'un statut du personnel | citunganiriza ibijanye n'intwaro hamwe approuvé conjointement par le ministre | n'ikigega kirafise amategeko agenga hiérarchique et le Ministre ayant les | abakozi yemezwa n'umushikiranganji ico finances dans ses attributions. gisata gikukira hamwe n'umushikiranganiji mu vyo ajejwe harimwo ikigega ca Reta. Le statut du personnel peut être complété | Amategeko agenga abakozi ashobora par le règlement d'ordre intérieur. kwunganirwa n'amategeko ntunganyabikorwa.
+Chaque administration personnalisée de l'Etat est dotée d'un statut du personnel approuvé conjointement par le ministre hiérarchique et le Ministre ayant les finances dans ses attributions. Le statut du personnel peut être complété par le règlement d'ordre intérieur.
 
 #### Article 19
 
-Ingingo ya 19 : Le personnel d'une administration | Abakozi b'igisata ca Reta citunganiriza personnalisée comprend : ibijanye n'intwaro hamwe n'ikigega bagizwe n'aba bakurikira :
+Le personnel d'une administration personnalisée comprend :
 
-1° des membres du comité de direction ; 1° abagize urwego nyobozi ;
+1° des membres du comité de direction ;
 
-2° des cadres détachés ; 2° abakozi bakuru ba Reta bava mu bundi buzi bwa Reta ;
+2° des cadres détachés ;
 
-3° du personnel permanent ou temporaire | 3° abakozi ba misi yose canke bafise engagé conformément au statut du akazi Kamara igihe gito bahabwa akazi personnel propre à l'administration hisunzwe amategeko agenga igisata ca personnalisée ou au Code du travail. Reta citunganiriza ibijanye n'intwaro hamwe n'ikigega canke hisunzwe & Igitabu c'amategeko agenga akazi.
+3° du personnel permanent ou temporaire engagé conformément au statut du personnel propre à l'administration personnalisée ou au Code du travail.
 
-La rémunération et l'avancement des | Agahembo n'ugutera imbere mu Kazi ku cadres et agents permanents d'une | bakozi bakuru no ku bakozi batoyi bamaho administration personnalisée tient compte | b'igisata ca Reta citunganiriza ibijanye des principes directeurs édictés par le |n'intwaro hamwe n'ikigega bifatira ku document de politique salariale équitable. ngingo ngenderwako zitegekanijwe mu Le salaire est composé des éléments fixes | rwandiko rwa poritike y'ugukuraho tels que déterminés par la politique salariale | ubusumbasumbane bw'imishahara. équitable. Umushahara ugizwe n'ibintu bidahinduka nk'uko bitomorwa na poritike y'ugukuraho ubusumbasumbane bw'imishahara.
+La rémunération et l'avancement des cadres et agents permanents d'une administration personnalisée tient compte des principes directeurs édictés par le document de politique salariale équitable. Le salaire est composé des éléments fixes tels que déterminés par la politique salariale équitable.
 
 #### Article 21
 
-Ingingo ya 21 : Le directeur général engage ou licencie le | Umuyobozi mukuru aratanga akazi canke personnel permanent ou temporaire du | akirukana abakozi ba misi yose canke service conformément aux dispositions du | abakozi bamara ïgihe gito b'igisata statut du personnel propre au service et du | hisunzwe ibitegekanijwe mu mategeko Code du travail. agenga abakozi b'ico gisata canke hisunzwe Igitabu c'amategeko agenga akazi.
+Le directeur général engage ou licencie le personnel permanent ou temporaire du service conformément aux dispositions du statut du personnel propre au service et du Code du travail.
 
-## CHAPITRE V — DES DISPOSITIONS | IGICE CA V : IVYEREKEYE INGINGO TRANSITOIRES ET FINALES MFATAKIBANZA N'IZISOZERA
+## CHAPITRE V — DES DISPOSITIONS TRANSITOIRES ET FINALES
 
 #### Article 22
 
-Ingingo ya 22 : Les textes régissant les administrations | Amategeko ashiraho ibisata vya Reta personnalisées existantes doivent se | vyitunganiriza ibijanye n'intwaro hamwe conformer aux dispositions de la présente | n'ikigega ategerezwa kuroranishwa n'iri loi dans un délai d'une année à compter de | bwirizwa mu kiringo c'umwaka giharuwe son entrée en vigueur. kuva rino bwirizwa rigiye mu ngiro.
+Les textes régissant les administrations personnalisées existantes doivent se conformer aux dispositions de la présente loi dans un délai d'une année à compter de son entrée en vigueur.
 
 #### Article 23
 
-Ingingo ya 23 : À la promulgation de la présente loi, les | Iri bwirizwa rimaze gutangazwa, inzego conseils d'administration en place sont | nshingwantwaro zari zihasanzwe zica abolis. Leurs missions sont accomplies par | zihagarikwa. Imirimo zahora zikora ica le comité de direction. irangurwa n'urwego nyobozi.
+À la promulgation de la présente loi, les conseils d'administration en place sont abolis. Leurs missions sont accomplies par le comité de direction.
 
 #### Article 24
 
-Ingingo ya 24 : Toutes dispositions antérieures contraires à | Ingingo zose zahahora ziteye kubiri n'iri la présente loi sont abrogées. bwirizwa zirafuswe. æ À F
+Toutes dispositions antérieures contraires à la présente loi sont abrogées.
 
-La présente loi entre en vigueur le jour de | Iri bwiriza ritangura gushirwa mu ngiro sa promulgation. kuva ku musi ritangarijweko. Fait à Gitega, le a juin 2024 Bigiriwe i Gitega, ku wa0}Ruheshi 2024 Evariste NDAYISHIMIYE.- NDAYISHIMIYE Evariste.- OS — TT PAR LE PRESIDENT DE LA KU BW'UMUKURU W'IGIHUGU, REPUBLIQUE, LT x. VU ET SC U SCEAU DE LA | BIBONYA MAz iSHIZWEKO REPU y IKIMYAGQ TA REPYB Ré \ \ Ur, S % L ED LA pos SH RANGER | “en | Î & ES A nt w' BUTU GA Fit AS ‘à per: CT Ü us K À _ “À CE L Re t TA UE + ARLES &.' Dore BANYANKIMEONR ï BANYANRIMEGNpA: pa. ° se Fa x $ = 7 À CRT | SE D
+æ À
+
+La présente loi entre en vigueur le jour de sa promulgation. Fait à Gitega, le a juin 2024 Evariste NDAYISHIMIYE.- on I] | ñ l _ PAR LE PRESIDENT DE LA REPUBLIQUE, VU ET SC U SCEAU DE LA REPU L Marre D LA Jde ER ire Ÿ LA UE 1 e FUN — FT ee | : es N \ S TT À | HS # Dore BANYANKIMEONR ÿ
